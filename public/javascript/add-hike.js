@@ -42,9 +42,9 @@ async function newFormHandler(event) {
 
 
     if (response.ok) {
-      document.location.replace('/dashboard');
+      document.location.reload();
     } else {
-      alert(response.statusText);
+      document.location.reload();
     }
   }
 
@@ -62,7 +62,6 @@ async function newFormHandler(event) {
                     event.stopPropagation();
                   }
                   form.classList.add('was-validated');
-                  event.preventDefault();
                   newFormHandler(event)
                 }, false);
               });
