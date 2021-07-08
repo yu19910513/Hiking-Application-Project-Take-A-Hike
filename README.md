@@ -1,29 +1,32 @@
 # Take A Hike
 
 ## Table of Contents
-​
-[Front End](#front-end)
-​
+
+- [About the Project](#about-the-project)
+- [Front End](#front-end)
 - [User Experience Design](#user-experience-design)
 - [User Interface: Design](#user-interface-design)
 - [User Interface: Event Handling](#user-interface-event-handling)
-​
-[Back End](#back-end)
-​
+- [Back End](#back-end)
 - [Express: Server](#express-server)
 - [Express: HTML Routes](#express-html-routes)
 - [Express: API Routes](#express-api-routes)
 - [Models and Database](#models-and-database)
-​
-[Dev Ops](#dev-ops)
-​
+- [Dev Ops](#dev-ops)
 - [Git Maintainer](#git-maintainer)
 - [Heroku Builder](#heroku-builder)
-​
-[Project Management](#project-management)
-​
+- [Project Management](#project-management)
 - [Scrum Master](#scrum-master)
 ​
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credit](#credit)
+- [License](#license)
+
+## About the Project
+
+Take a Hike is an application that hikers can create a profile and add hikes they have taken and hike they want to take to their profile. The user will also be able to search hikes and check weather conditions along with comments other hikes have made about that particular hike.
+
 ## Front End
 ​
 ### User Experience Design
@@ -263,7 +266,16 @@
     - plan and facilitate pull requests
   - [Heroku Builder](#heroku-builder)
     - when should we plan releases?
-## MIT License
+
+## Installation
+
+## Usage 
+Deployed Linke (https://blooming-shelf-27680.herokuapp.com)
+
+## Credit
+
+## License
+### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
