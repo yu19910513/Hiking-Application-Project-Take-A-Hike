@@ -1,6 +1,6 @@
 # Take A Hike
 
-<<<<<<< HEAD
+
 ## Table of Contents
 ​
 [Front End](#front-end)
