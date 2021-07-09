@@ -62,4 +62,4 @@ Wireframe
 
 ## Links
 
-Heroku - https://lit-tor-33671.herokuapp.com/
+Heroku - https://thawing-plateau-25662.herokuapp.com/
