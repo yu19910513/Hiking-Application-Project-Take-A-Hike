@@ -1,32 +1,30 @@
 # Take A Hike
 
+<<<<<<< HEAD
 ## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Front End](#front-end)
+​
+[Front End](#front-end)
+​
 - [User Experience Design](#user-experience-design)
 - [User Interface: Design](#user-interface-design)
 - [User Interface: Event Handling](#user-interface-event-handling)
-- [Back End](#back-end)
+​
+[Back End](#back-end)
+​
 - [Express: Server](#express-server)
 - [Express: HTML Routes](#express-html-routes)
 - [Express: API Routes](#express-api-routes)
 - [Models and Database](#models-and-database)
-- [Dev Ops](#dev-ops)
+​
+[Dev Ops](#dev-ops)
+​
 - [Git Maintainer](#git-maintainer)
 - [Heroku Builder](#heroku-builder)
-- [Project Management](#project-management)
+​
+[Project Management](#project-management)
+​
 - [Scrum Master](#scrum-master)
 ​
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credit](#credit)
-- [License](#license)
-
-## About the Project
-
-Take a Hike is an application that hikers can create a profile and add hikes they have taken and hike they want to take to their profile. The user will also be able to search hikes and check weather conditions along with comments other hikes have made about that particular hike.
-
 ## Front End
 ​
 ### User Experience Design
@@ -266,23 +264,68 @@ Take a Hike is an application that hikers can create a profile and add hikes the
     - plan and facilitate pull requests
   - [Heroku Builder](#heroku-builder)
     - when should we plan releases?
+=======
+- Take a Hike
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credit](#credit)
+- [License](#license)
+
+## About the Project
+
+Take a Hike is an application that hikers can use create post of hikes they have taken and hikes they want to take in the future. Users will also be able to see other users hikes and comment on them.
 
 ## Installation
 
-## Usage 
-Deployed Linke (https://blooming-shelf-27680.herokuapp.com)
+User will need to install Node JS by clicking the following link https://nodejs.org/en/download/
+
+Using their command line, the user will need to install the packages using the following commands
+
+Node Modules and JSON packages- 'npm install'
+
+Mysql- 'npm i mysql'
+
+Handlebars - 'npm i handlebars'
+
+Express - 'npm i express'
+
+Sequelize - 'npm i Sequelize'
+
+Helpers - 'npm i helpers'
+
+Routes - 'npm i routes'
+
+## Usage
+
+Once a user has created a profile they will be able to post hikes they have done and hikes they wish to do in the future. The hike post will show current weather, best season to hike, difficulty, and add tags. Users will also be able to see other users post and make comments on those posts.
 
 ## Credit
 
+Chris Abiva - https://github.com/Chabivz
+
+Vinnette Gutierrez - https://github.com/vinetteg
+
+Matt Koski - https://github.com/mjkekai
+
+Rex Yu - https://github.com/yu19910513
+
 ## License
-### MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+MIT
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Media
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Wireframe
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![wireframe_takeahike](https://user-images.githubusercontent.com/78839909/124990126-cda3a400-dff4-11eb-93dc-63fb893fefaf.jpg)
 
-©2021 Rex Yu
+
+
+## Links
+
+Heroku - https://lit-tor-33671.herokuapp.com/
+>>>>>>> 6e1008825c96207dbd962b172bb5c85a74362e79
